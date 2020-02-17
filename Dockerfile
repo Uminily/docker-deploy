@@ -1,4 +1,4 @@
-FROM ruby:alpine
+FROM ruby:latest
 
 LABEL maintainer="Xavier HEN<uminily@gmail.com>"
 
